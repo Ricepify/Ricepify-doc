@@ -5,7 +5,7 @@
 2. What pain point does this project solve?
  - Have you ever had trouble finding good recipes online? Ricepify solves that. It streamlines the process of finding and sharing culinary creations, offering a user-friendly experience that saves time and reduces the hassle of sifting through numerous sources.
 3. Why should you care about our product?
- - If you love cooking or want to learn, Ricepify is your kitchen buddy. You can save your favorite recipes, rate them, and even share your own creations. It's a community of food lovers, here to inspire you and make your cooking journey awesome!
+ - If you love cooking or want to learn, Ricepify is your kitchen buddy. You can save your favorite recipes, and even share your own creations. It's a community of food lovers, here to inspire you and make your cooking journey awesome!
 
 ## Scope (In/Out)
 > IN
