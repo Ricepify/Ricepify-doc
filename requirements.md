@@ -20,7 +20,7 @@ Users can access a diverse collection of culinary creations from trusted externa
 Users can interact with recipes by rating them, adding them to favorites, and leaving comments.
 4. Comment Management:
 
-Users can add, update, and delete comments on recipes, allowing for meaningful interactions with the community.
+Users can add, and delete comments on recipes, allowing for meaningful interactions with the community.
 5. Personal Recipe Collection:
 
 Users have the ability to create and manage their own collection of favorite recipes for easy access.
@@ -77,7 +77,7 @@ Send users notifications for actions like new comments on their recipes or when 
 1. User Authentication and Authorization:
 
 Users can create accounts, log in, and log out securely.
-Users have different levels of access (e.g., regular user, admin).
+Users have different levels of access (e.g., regular user).
 2. User Profile Management:
 
 Users can update their profile information, including details like name, profile picture, and personal preferences.
@@ -88,10 +88,6 @@ Users can leave comments on recipes.
 4. Recipe Creation :
 
 Users can create their own recipes.
-
-5. Admin Functions:
-
-An admin can manage user accounts, including creating and deleting user accounts.
 
 6. Recipe Search and Discovery:
 
@@ -119,10 +115,7 @@ Users can search for recipes by ingredient, cuisine, or creator.
 - External API Integration:
 
    - The application sends a request to the external recipe API to fetch additional recipes.
-- Admin Account Management:
 
-   - Admin logs in and navigates to the admin panel.
-   - Admin creates a new user account or deletes an existing one.
 - User Logs Out:
 
    - User logs out when they are done using the application.
