@@ -1,5 +1,6 @@
 # Ricepify-doc
 ## Wireframes
+
 [Our Wireframe on Figma](https://www.figma.com/file/3jl0Z7aqlOpdXlEETIpfwH/Ricepify-ProtoType?type=whiteboard&node-id=0-1&t=aXbvgMu1XlnpBNwV-0)
 <br>
 **Home Page**
@@ -32,6 +33,7 @@
 **Details**
 ![Search](./Assest/Screenshot%20(555).png)
 
+
 ## User Stories
  1. User authentication for a secure and personalized experience.
  2. Exploring a diverse collection of culinary creations sourced from trusted third party API.
@@ -46,6 +48,7 @@
 [Software Requirements](./requirements.md)
 
 ## Domain Modeling
+
 > Identify Entities:
 
 - SiteUser
@@ -108,6 +111,7 @@ Many-to-One with SiteUserEntity: A favorite recipe is associated with one user.
 
 > Create a Diagram:
 ![ERD](./Assest/Screenshot%20(560).png)
+
 
 
 
