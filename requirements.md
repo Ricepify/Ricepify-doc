@@ -5,7 +5,9 @@
 2. What pain point does this project solve?
  - Have you ever had trouble finding good recipes online? Ricepify solves that. It streamlines the process of finding and sharing culinary creations, offering a user-friendly experience that saves time and reduces the hassle of sifting through numerous sources.
 3. Why should you care about our product?
- - If you love cooking or want to learn, Ricepify is your kitchen buddy. You can save your favorite recipes, and even share your own creations. It's a community of food lovers, here to inspire you and make your cooking journey awesome!
+
+ - If you love cooking or want to learn, Ricepify is your kitchen buddy. You can save your favorite recipes, rate them, and even share your own creations. It's a community of food lovers, here to inspire you and make your cooking journey awesome!
+
 
 ## Scope (In/Out)
 > IN
@@ -20,7 +22,9 @@ Users can access a diverse collection of culinary creations from trusted externa
 Users can interact with recipes by rating them, adding them to favorites, and leaving comments.
 4. Comment Management:
 
-Users can add, update, and delete comments on recipes, allowing for meaningful interactions with the community.
+
+Users can add, and delete comments on recipes, allowing for meaningful interactions with the community.
+
 5. Personal Recipe Collection:
 
 Users have the ability to create and manage their own collection of favorite recipes for easy access.
@@ -77,7 +81,9 @@ Send users notifications for actions like new comments on their recipes or when 
 1. User Authentication and Authorization:
 
 Users can create accounts, log in, and log out securely.
-Users have different levels of access (e.g., regular user, admin).
+
+Users have different levels of access (e.g., regular user).
+
 2. User Profile Management:
 
 Users can update their profile information, including details like name, profile picture, and personal preferences.
@@ -89,9 +95,7 @@ Users can leave comments on recipes.
 
 Users can create their own recipes.
 
-5. Admin Functions:
 
-An admin can manage user accounts, including creating and deleting user accounts.
 
 6. Recipe Search and Discovery:
 
@@ -119,10 +123,7 @@ Users can search for recipes by ingredient, cuisine, or creator.
 - External API Integration:
 
    - The application sends a request to the external recipe API to fetch additional recipes.
-- Admin Account Management:
 
-   - Admin logs in and navigates to the admin panel.
-   - Admin creates a new user account or deletes an existing one.
 - User Logs Out:
 
    - User logs out when they are done using the application.
@@ -151,4 +152,6 @@ Security is paramount to protect user data and ensure the integrity of the platf
 - Intuitive User Interface (UI): The UI will be designed with user experience in mind, ensuring clear navigation, consistent layouts, and intuitive controls.
 - Responsive Design: The application will be responsive to various screen sizes and devices, providing a seamless experience on both desktop and mobile platforms.
 - Accessibility: The platform will adhere to accessibility standards (e.g., WCAG) to ensure it is usable by people with disabilities, including screen readers and assistive technologies.
+
 - User Testing and Feedback Loop: Usability testing will be conducted with real users to gather feedback and make iterative improvements to the interface and interaction flows.
+
