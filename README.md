@@ -109,7 +109,8 @@ InternalRecipeFavoriteEntity and ExternalRecipeFavoriteEntity:
 
 Many-to-One with SiteUserEntity: A favorite recipe is associated with one user.
 
-> Create a Diagram:
+## Database Diagram:
+
 ![ERD](./Assest/Screenshot%20(560).png)
 
 
